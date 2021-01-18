@@ -6,6 +6,12 @@ Now you can publish/copy your sketch sources without fear of jeopardizing your d
 
 # How to use?
 
+* Download https://github.com/holgerlembke/privatedata/archive/main.zip 
+* put into your Lib-Folder
+* edit privatedata.h
+* use it
+* enjoy.
+
 ```
 #include <privatedata.h>
 
